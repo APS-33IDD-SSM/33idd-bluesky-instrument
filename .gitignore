@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore IPython log files generated in Bluesky sessions
+.logs/
+
